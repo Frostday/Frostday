@@ -31,4 +31,5 @@ I am Dhruv Garg, currently a second-year student at Thapar University. I love pr
 <p align="center">
 <a href="https://twitter.com/frostdayeee"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/dhruv-garg-a9b816190/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.kaggle.com/dhruvgarg3"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" width="60"></a>
 </p>

@@ -13,7 +13,7 @@ I am Dhruv Garg, currently a second-year student at Thapar University. I love pr
 - ⚡ Fun fact: No number before 1,000 contains the letter A
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/python.png" alt="python" width="50" height="50"/> 
+  <img src="https://img.icons8.com/color/96/000000/python.png" alt="python" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="c" width="40" height="40"/> 

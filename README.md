@@ -30,6 +30,8 @@ I am Dhruv Garg, currently a pre-final year student at Thapar University. I love
 </p>
 
 <p align="center">
-<a href="https://twitter.com/frostdayeee"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-<a href="https://www.linkedin.com/in/dhruv-garg-a9b816190/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/dhruv-garg-a9b816190/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href="mailto:dhruvgarg01@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>
+<a href="https://www.instagram.com/dhruvgarg01/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/frostdayeee/"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 </p>

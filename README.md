@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I am Dhruv Garg, currently a Jr. Data Scientist at Aganitha. I love programming and my go-to language is Python. I am very passionate about AI and have a lot of experience in creating deep learning and machine learning models to solve real-world problems. <br/>
+I am Dhruv Garg, currently pursuing an MS in data science at CMU. I love programming and my go-to language is Python. I am very passionate about AI and have a lot of experience creating deep learning and machine learning models to solve real-world problems. <br/>
 
 <p style="text-align: center;">
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
